@@ -21,7 +21,7 @@ Goku BCI의 보안 & 확장 버전
 EEG 데이터에서 집중 상태가 감지될 때마다 이름의 다음 글자가
 LCD에 한 글자씩 출력된다.
 
-모든 글자가 출력되면 LCD에 "MISSION COMPLETE!!"가 표시된다.
+모든 글자가 출력되면 LCD에 `MISSION COMPLETE!!`가 표시된다.
 
 ---
 
@@ -66,7 +66,7 @@ Processing에서 TGAM 패킷을 분석한다.
 * Signal Quality
 * Beta Power
 
-TGAM의 "0xAA 0xAA" 패킷 헤더를 기준으로 데이터를 수신하고,
+TGAM의 `0xAA 0xAA` 패킷 헤더를 기준으로 데이터를 수신하고,
 각 데이터 코드에 따라 필요한 값을 추출한다.
 
 ---
