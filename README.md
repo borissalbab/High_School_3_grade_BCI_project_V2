@@ -8,7 +8,7 @@ I2C LCD에 출력하는 BCI 시스템을 구현했다.
 
 ## Project Overview
 
-Goku BCI의 보안 & 확장 버전이다.
+Goku BCI의 보안 & 확장 버전
 
 기존 프로젝트에서 EEG Attention 값을 이용해 시각적인 변화를
 제어하는 것에서 더 나아가, 이번 프로젝트에서는
