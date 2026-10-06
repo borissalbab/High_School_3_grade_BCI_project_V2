@@ -329,3 +329,5 @@ name_lcd_arduino.ino
 * Serial Port 자동 인식 및 연결 안정성 개선
 * EEG 데이터 시각화 및 분석 기능 추가
 * 보다 다양한 하드웨어 출력 장치와 연동
+
+ai 맛있네
